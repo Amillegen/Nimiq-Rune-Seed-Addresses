@@ -1,0 +1,1 @@
+# Nimiq-Rune-Seed-Addresses
